@@ -39,13 +39,13 @@ PROJECT PARAMETERS:
 
 -The Image correlates with the provided jpg. which demonstrated the apps desired functionality
 
-ADJUSTMENTS 
+ADJUSTMENTS Psuedocode 
 
 1. Created Arrays
 2. Variable Declaration
 3. Prompt to confirm how many characters the user would like
-4. Loop if answer is outside the parameters 
-5. Repeat back how many charactes the user will have
+4. Created Loop if answer is outside the parameters 
+5. Repeated back how many charactes the user will have
 6. Determine parameters of password 
 7. Loop if answer is outside the parameters
 8. Assign an action to the password parameters
@@ -55,4 +55,5 @@ ADJUSTMENTS
 -Commited to Git
 -URL and App Link Deployed and saved to github
 
-
+Deployed URL--> https://dolenand.github.io/HW3-Password-Generator/
+Github Repo link--> https://github.com/dolenand/HW3-Password-Generator
